@@ -1,0 +1,10 @@
+adventure Huckellberry_Finn Mark_Twain 
+adventure Old_Man_and_the_Sea Charles_Dickens 
+adventure Robinson_Crusoe Daniel_Defoe 
+science Nineteen_Eighty_Four George_Orwell 
+science The_Martian Andy_Weir 
+science Solaris Stanisław_Lem 
+science I,robot Isaac_Asimov 
+history The_Silk_Roads_A_New_History_of_the_World Peter_Frankopan
+history A_Case_of_Exploding_Mangoes Mohammad_Hanif
+history The_First_Muslim Lesley_Hazleton
